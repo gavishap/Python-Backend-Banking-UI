@@ -6,7 +6,7 @@ This Python Backend Banking UI is a simple application that allows users to mana
 
 Installation
 
-Clone the repository to your local machine using the command git clone https://github.com/your-username/Python-Backend-Banking-UI.git
+Clone the repository to your local machine using the command git clone https://github.com/gavishap/Python-Backend-Banking-UI.git
 Install the necessary dependencies using pip install -r requirements.txt
 
 Usage
